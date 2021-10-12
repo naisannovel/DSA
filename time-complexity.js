@@ -6,7 +6,7 @@
 // function call (optional) -> eat()
 // inside work of function -> eat(...)
 
-// The number of operations in a program that does not depend on its input is O of 1
+// The number of operations in a program that does not depend on its input is Order of 1
 
 // O(1)
 function sum(n1,n2){

@@ -1,4 +1,4 @@
-const roll = [25, 7, 2, 6, 1, 5, 4, 3];
+const roll = [25, 7, 2, 6, 1, 5, 7, 4, 3];
 
 
 function selection_sort(ary){
@@ -12,7 +12,7 @@ function selection_sort(ary){
                 ary[i] = ary[j];
                 ary[j] = temp;
             }
-            
+
         }
 
     }

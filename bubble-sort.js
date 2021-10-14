@@ -18,4 +18,4 @@ function bubble_sort(ary){
 }
 
 const res = bubble_sort(result);
-console.log(res);
+console.log(res); 

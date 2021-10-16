@@ -1,8 +1,10 @@
 function sum(n){
-    if(n===0) return 1;
+    let total = 0;
+    if(n===0) return 0;
+    
+    total = n + sum(n-1);
     console.log('N = ', n);
-
-    return n * sum(n-1);
+    return total;
 }
 
 console.log(sum(5));

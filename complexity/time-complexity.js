@@ -6,6 +6,19 @@
 // function call (optional) -> eat()
 // inside work of function -> eat(...)
 
+// Time
+
+// Constant Time Complexity - O(1)
+// Linear Time Complexity - O(n)
+// Quadratic Time Complexity - O(n to the power 2)
+// Cubic Time Complexity - O(n to the power 3)
+
+
+// Best case
+// Average case
+// Worst case
+
+
 // The number of operations in a program that does not depend on its input is Order of 1
 
 // O(1)
